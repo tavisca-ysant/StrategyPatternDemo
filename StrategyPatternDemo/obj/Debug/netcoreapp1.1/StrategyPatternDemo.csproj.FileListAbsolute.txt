@@ -1,0 +1,10 @@
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\netcoreapp1.1\StrategyPatternDemo.deps.json
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\netcoreapp1.1\StrategyPatternDemo.runtimeconfig.json
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\netcoreapp1.1\StrategyPatternDemo.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\netcoreapp1.1\StrategyPatternDemo.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\bin\Debug\netcoreapp1.1\StrategyPatternDemo.pdb
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\netcoreapp1.1\StrategyPatternDemo.csprojResolveAssemblyReference.cache
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\netcoreapp1.1\StrategyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\netcoreapp1.1\StrategyPatternDemo.AssemblyInfo.cs
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\netcoreapp1.1\StrategyPatternDemo.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemo\obj\Debug\netcoreapp1.1\StrategyPatternDemo.pdb

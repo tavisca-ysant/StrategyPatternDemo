@@ -1,0 +1,15 @@
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\StrategyPatternDemoTests.deps.json
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\StrategyPatternDemoTests.runtimeconfig.json
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\StrategyPatternDemoTests.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\StrategyPatternDemoTests.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\StrategyPatternDemoTests.pdb
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\StrategyPatternDemo.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\bin\Debug\netcoreapp1.1\StrategyPatternDemo.pdb
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\obj\Debug\netcoreapp1.1\StrategyPatternDemoTests.csprojResolveAssemblyReference.cache
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\obj\Debug\netcoreapp1.1\StrategyPatternDemoTests.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\obj\Debug\netcoreapp1.1\StrategyPatternDemoTests.AssemblyInfo.cs
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\obj\Debug\netcoreapp1.1\StrategyPatternDemoTests.dll
+C:\Users\ysant\source\repos\StrategyPatternDemo\StrategyPatternDemoTests\obj\Debug\netcoreapp1.1\StrategyPatternDemoTests.pdb
